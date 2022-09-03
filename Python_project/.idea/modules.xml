@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../API_project/.idea/API_project.iml" filepath="$PROJECT_DIR$/../API_project/.idea/API_project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Advanced_OOP/.idea/Advanced_OOP.iml" filepath="$PROJECT_DIR$/../Advanced_OOP/.idea/Advanced_OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Asyncronous_Scraping_Books/.idea/Asyncronous_Scraping_Books.iml" filepath="$PROJECT_DIR$/../Asyncronous_Scraping_Books/.idea/Asyncronous_Scraping_Books.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Flask_app/.idea/First_flask_app.iml" filepath="$PROJECT_DIR$/../Flask_app/.idea/First_flask_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../GUI_development/.idea/GUI_development.iml" filepath="$PROJECT_DIR$/../GUI_development/.idea/GUI_development.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Jango_Postgres/.idea/Jango_Postgres.iml" filepath="$PROJECT_DIR$/../Jango_Postgres/.idea/Jango_Postgres.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PostgreSQL_tests/.idea/PostgreSQL_tests.iml" filepath="$PROJECT_DIR$/../PostgreSQL_tests/.idea/PostgreSQL_tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Python_project.iml" filepath="$PROJECT_DIR$/.idea/Python_project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Test_solution/.idea/Test_solution.iml" filepath="$PROJECT_DIR$/../Test_solution/.idea/Test_solution.iml" />
+    </modules>
+  </component>
+</project>
